@@ -1,0 +1,92 @@
+* {
+  font-family: sans-serif;
+}
+
+.homePage {
+  background-image: url("http://static1.squarespace.com/static/54347f0de4b0a112b1211748/t/56085145e4b0b215accc60e3/1443385672782/?format=1000w");
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+body {
+  background-color: #F3F5F4;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #515151;
+}
+
+ul {
+  padding-top: 1em;
+  padding-right: 1em;
+  padding-bottom: 1em;
+}
+
+li {
+  float: left;
+  padding-left: 2em;
+  font-size: 1.3em;
+}
+
+a {
+  text-decoration: none;
+  color: #F3F5F4;
+}
+
+a:hover {
+  color: #b7b7b7;
+}
+
+.currentLink {
+  color: #b7b7b7;
+}
+
+.rowContainer {
+  clear: both;
+  width: 100%;
+}
+
+.image {
+  float: left;
+  padding-left: 10%;
+  padding-top: 6%;
+}
+
+.image img {
+  width: 80%;
+}
+
+.text {
+  float: left;
+  width: 30%;
+  padding-top: 20%;
+}
+
+.text p {
+  color: #868485;
+  line-height: 1.5em;
+}
+
+.designs {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10em;
+}
+
+#one {
+  width:75%;
+}
+
+/*.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding-bottom: 4em;
+}
+
+.footer p {
+  text-align: center;
+}*/
