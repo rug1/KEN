@@ -79,6 +79,38 @@ a:hover {
   width:75%;
 }
 
+h1 {
+  font-weight: lighter;
+  padding-top: 3em;
+  text-align: center;
+}
+
+.logInScreens {
+  clear: both;
+}
+
+.wireframes {
+  float: left;
+  padding-top: 5em;
+  padding-bottom: 4em;
+}
+
+.wireframes img {
+  width: 20%;
+  padding-left: 4%;
+}
+
+.simulation {
+  font-size: 1.5em;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.simulationLink {
+  color: black;
+  text-decoration: underline;
+}
+
 /*.footer {
   position: absolute;
   right: 0;
