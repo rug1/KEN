@@ -3,13 +3,13 @@
 }
 
 .homePage {
-  background-image: url("http://static1.squarespace.com/static/54347f0de4b0a112b1211748/t/56085145e4b0b215accc60e3/1443385672782/?format=1000w");
+  background-image: url("");
   background-repeat: no-repeat;
   background-position: center;
 }
 
 body {
-  background-color: #F3F5F4;
+  /*background-color: #F3F5F4;*/
   margin: 0;
 }
 
@@ -110,15 +110,3 @@ h1 {
   color: black;
   text-decoration: underline;
 }
-
-/*.footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding-bottom: 4em;
-}
-
-.footer p {
-  text-align: center;
-}*/
