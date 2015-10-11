@@ -87,19 +87,26 @@ h1 {
   text-align: center;
 }
 
-.logInScreens {
-  clear: both;
-}
-
-.wireframes {
+.logInWireframes {
   float: left;
   padding-top: 5em;
-  padding-bottom: 4em;
+  padding-bottom: 7em;
 }
 
-.wireframes img {
+.logInWireframes img {
   width: 20%;
   padding-left: 4%;
+}
+
+.mapWireframes {
+  float: left;
+  padding-top: 5em;
+  padding-bottom: 7em;
+}
+
+.mapWireframes img {
+  width: 20%;
+  padding-left: 10%;
 }
 
 .simulation {
